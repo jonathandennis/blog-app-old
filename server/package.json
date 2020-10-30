@@ -1,6 +1,9 @@
 {
   "name": "blog-list",
   "version": "1.0.0",
+  "engines": {
+    "node": "12.x"
+  },
   "description": "blog list app U. Helsinki MOOC exercise",
   "main": "index.js",
   "scripts": {
